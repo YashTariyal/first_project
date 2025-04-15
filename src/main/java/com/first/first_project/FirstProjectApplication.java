@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FirstProjectApplication {
 
 	public static void main(String[] args) {
+		// This is the main method that starts the Spring Boot application
 		SpringApplication.run(FirstProjectApplication.class, args);
 	}
 
