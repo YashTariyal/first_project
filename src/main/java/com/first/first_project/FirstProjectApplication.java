@@ -8,6 +8,7 @@ public class FirstProjectApplication {
 
 	public static void main(String[] args) {
 		// This is the main method that starts the Spring Boot application
+		System.out.println("Hello World");
 		SpringApplication.run(FirstProjectApplication.class, args);
 	}
 
